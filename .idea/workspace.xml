@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b3326e0-a9a6-4f56-80f4-b38bb7c73f23" name="Changes" comment="addedthe two service">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b3326e0-a9a6-4f56-80f4-b38bb7c73f23" name="Changes" comment="adding required codde to pom.xml">
+      <change beforePath="$PROJECT_DIR$/BEJ_C2_S3_REST_API_MONGODB_MC_1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BEJ_C2_S3_REST_API_MONGODB_MC_1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserAuthentication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,14 +93,22 @@
       <option name="project" value="LOCAL" />
       <updated>1670259404962</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding required codde to pom.xml">
+      <created>1670259732859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670259732859</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="deleted the src folder" />
     <MESSAGE value="addedthe two service" />
-    <option name="LAST_COMMIT_MESSAGE" value="addedthe two service" />
+    <MESSAGE value="adding required codde to pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding required codde to pom.xml" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
