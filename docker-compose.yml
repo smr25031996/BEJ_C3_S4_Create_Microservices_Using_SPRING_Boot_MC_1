@@ -8,7 +8,7 @@ services:
     networks:
       - mynetwork
     ports:
-      - 8086:8086
+      - 8087:8087
     depends_on:
       - mongoService
 
@@ -29,7 +29,7 @@ services:
     networks:
       - mynetwork
     ports:
-      - 8080:8080
+      - 8088:8088
     depends_on:
       - mysqlService
 
